@@ -1,0 +1,1 @@
+Create a React and Typescript project in this directory using Vite. Create a README file that details how the project was setup and how to run it. Run a server of it on localhost:3000. Do not use create-react-app to create the program.  
